@@ -1,2 +1,3 @@
 # html-portfolio
 Dit is een eerste poging om een website te maken...
+Ook om te zien wat dit geeft als het effectief op het web terechtkomt?
